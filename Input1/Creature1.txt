@@ -1,0 +1,37 @@
+Hobbit Bilbo 1200
+x
+Dwarf Balin 1900
+Hobbit Frodo 1150
+o
+Dwarf Gimli 2100
+e
+Dwarf Bombur 1700
+Elf Galadriel 2999
+Dwarf Fili 1230
+j
+Elf Figwit 1995
+Dwarf Kili 1974
+x
+x
+x
+Dwarf Thorin 2150
+k
+Elf Legolas 2950
+X
+Elf Arwen 2400
+Elf Haldir 2700
+c
+c
+e
+Elf Thranduil 2870
+Hobbit Samwise 1000
+Dwarf Dwalin 2000
+u
+u
+c
+Elf Tauriel 2650
+c
+Hobbit Pippin 950
+i
+Elf Elrond 2100
+Hobbit Fred 900

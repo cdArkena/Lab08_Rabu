@@ -1,0 +1,79 @@
+Name: Bilbo
+Type: Hobbit
+Health: 0
+
+Name: Balin
+Type: Dwarf
+Health: 1900
+
+Name: Frodo
+Type: Hobbit
+Health: 1150
+
+Name: Gimli
+Type: Dwarf
+Health: 2100
+
+Name: Bombur
+Type: Dwarf
+Health: 1400
+
+Name: Galadriel
+Type: Elf
+Health: 2999
+
+Name: Fili
+Type: Dwarf
+Health: 1230
+
+Name: Figwit
+Type: Elf
+Health: 1995
+
+Name: Kili
+Type: Dwarf
+Health: 1974
+
+Name: Thorin
+Type: Dwarf
+Health: 2150
+
+Name: Legolas
+Type: Elf
+Health: 2750
+
+Name: Arwen
+Type: Elf
+Health: 2400
+
+Name: Haldir
+Type: Elf
+Health: 2700
+
+Name: Thranduil
+Type: Elf
+Health: 2870
+
+Name: Samwise
+Type: Hobbit
+Health: 1000
+
+Name: Dwalin
+Type: Dwarf
+Health: 2000
+
+Name: Tauriel
+Type: Elf
+Health: 2650
+
+Name: Pippin
+Type: Hobbit
+Health: 950
+
+Name: Elrond
+Type: Elf
+Health: 2100
+
+Name: Fred
+Type: Hobbit
+Health: 0
